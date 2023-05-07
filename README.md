@@ -1,1 +1,1 @@
-lista = [bialy, niebieski, czarny]
+lista = [bialy, niebieski, czarny, zolty]
