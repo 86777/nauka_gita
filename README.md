@@ -1,0 +1,1 @@
+lista = [bialy, niebieski, czarny]
